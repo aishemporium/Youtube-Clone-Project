@@ -1,0 +1,178 @@
+/* *{
+    box-sizing: border-box;
+} */
+/* html,body{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+
+} */
+
+
+main{
+    display: flex;
+}
+.section1
+.images img{
+    height: 2rem;
+    width: 3rem;
+}
+p{
+    margin: 0%;
+}
+.nav1 img{
+    height: 1.5rem;
+    width: 1.5rem;
+}
+.icon {
+    display: flex;
+    padding: 5% 0% 0% 1%;
+    text-decoration: none;
+}
+
+ul{padding: 0%;
+    margin:0% ;
+}
+ul li {
+    list-style: none;
+    margin: 1rem;
+    padding: auto;
+}
+hr {
+    width: 12rem;
+    margin: 1rem 0% 9px 0%;
+}
+.section2{
+    display: flex;
+}
+.searchid{
+    position: relative;
+    left: 10rem;
+}
+.searchid img{
+    height: 1rem;
+    width: 1rem;
+    position: absolute;
+    left: 26rem;
+    top: 1rem;
+}
+input{
+    height: 2rem;
+    width: 28rem;
+    border-radius: 2rem;
+    margin: 0.5rem;
+    padding: 1rem;
+}
+.micId{
+    display: flex;
+}
+.micd{
+    height: 2rem;
+    width: 3rem;
+    left: 10rem;
+    top: 0.5rem;
+    position: relative;
+}
+.headerImg{
+    height: 2rem;
+    width: 2rem;
+    position: relative;
+    left: 27em;
+    top: 0.5rem;
+}
+.nav{
+    margin: 4rem;
+    left: 12rem;
+    position: absolute;
+}
+.nav ul{
+    display: flex;
+    gap: 0.5rem;
+}
+.nav a{
+    padding: 1em;
+    width: 2rem;
+    height: 2rem;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+.all{
+    background-color: grey;
+    margin: auto;
+    border-radius: 3rem;
+}
+.nolly{
+    background-color: grey;
+    margin: auto;
+    border-radius: 3rem;
+}
+.music{
+    background-color: grey;
+    margin: auto;
+    border-radius: 3rem;
+}
+.comedy{
+    background-color: grey;
+    margin: auto;
+    border-radius: 3rem;
+}
+.live{
+    background-color: grey;
+    margin: auto;
+    border-radius: 3rem;
+}
+.news{
+    background-color: grey;
+    margin: auto;
+    border-radius: 3rem;
+}
+.davido{
+    background-color: grey;
+    margin: auto;
+    border-radius: 3rem;
+}
+.freestyle{
+    background-color: grey;
+    margin: auto;
+    border-radius: 3rem;
+}
+.african{
+    background-color: grey;
+    margin: auto;
+    border-radius: 3rem;
+}
+.playlist{
+    background-color: grey;
+    margin: auto;
+    border-radius: 3rem;
+}
+.video{
+    background-color: grey;
+    margin: auto;
+    border-radius: 3rem;
+}
+.programming{
+    background-color: grey;
+    margin: auto;
+    border-radius: 3rem;
+}
+.chill{
+    background-color: grey;
+    margin: auto;
+    border-radius: 3rem;
+}
+.liveTele{
+    background-color: grey;
+    margin: auto;
+    border-radius: 3rem;
+}
+.content{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 2px;
+    margin-top: 6rem;
+    margin-left: -35rem;
+}
